@@ -1,6 +1,8 @@
 # oklch
 
-This template should help get you started developing with Vue 3 in Vite.
+A quick test with Vite, Vue 3, Tailwind CSS, shadcn-vue to experiment with a user-selected hue to alter an app's theme.
+
+It uses CSS Color Level 5's `oklch(from…)` function to generate a color palette based on a user-selected hue.
 
 ## Recommended IDE Setup
 
